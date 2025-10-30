@@ -1,0 +1,5 @@
+# Global code owners
+* @enpro-cloud/GitHub-Approvers
+
+# Alternative: Use individual users if team doesn't work
+# * @username1 @username2
